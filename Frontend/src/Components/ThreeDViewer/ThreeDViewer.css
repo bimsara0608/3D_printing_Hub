@@ -1,0 +1,25 @@
+/* src/components/ThreeDViewer/ThreeDViewer.css */
+
+/* Spinner Styling */
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+    background-color: #f0f0f0;
+  }
+  
+  /* Alert Styling */
+  .alert {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+  }
+  
+  /* Grid and Axes Styling (Optional) */
+  /* You can adjust colors or visibility here if needed */
+  

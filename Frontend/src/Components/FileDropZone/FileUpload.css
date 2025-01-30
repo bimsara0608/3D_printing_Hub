@@ -1,0 +1,48 @@
+.upload-container {
+  max-width: 900px;
+}
+
+.dropzone {
+  border: 2px dashed #6c757d;
+  border-radius: 10px;
+  background-color: #f8f9fa;
+  cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.dropzone.active {
+  background-color: #e9ecef;
+  border-color: #0d6efd;
+}
+
+.file-details .file-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.buttons-container button {
+  min-width: 120px;
+}
+
+.settings-section {
+  margin-top: 20px;
+}
+
+.settings-section .card {
+  background-color: #ffffff;
+}
+
+.settings-section .card-header {
+  background-color: #f1f1f1;
+  font-weight: bold;
+}
+
+.progress-bar {
+  height: 10px;
+  border-radius: 5px;
+}
+
+.three-d-viewer {
+  margin-top: 20px;
+}
